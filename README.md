@@ -1,5 +1,5 @@
 # 💫 About Me:
-i love maths and astronomy 🌠
+hey, I'm Anjana Rajagopal and I love maths & astronomy 🌠
 
 
 ## 🌐 Socials:
