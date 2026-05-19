@@ -2,6 +2,7 @@
 hi, i'm Anjana, i'm hyperobservant and i love maths & astronomy 🌌
 
 but other than that:
+
 🫡 AI & DS student  
 🫡 interested in Machine Learning, Computer Vision & Graph ML  
 🫡 building AI systems becauase my marks are dependent on those
