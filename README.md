@@ -9,6 +9,7 @@ but other than that:
 🫡 wannabe anthropologist
 
 
+
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/anjipoo2004) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anjanarajagopal2004@gmail.com) 
 
