@@ -18,3 +18,7 @@ but other than that:
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=anjipoo&theme=tokyonight)
 [![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anjipoo&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=anjipoo&show_icons=true&theme=dracula" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anjipoo&layout=compact&theme=dracula" height="150" alt="languages graph"  />
+</div>
