@@ -22,3 +22,8 @@ but other than that:
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=anjipoo&show_icons=true&theme=dracula" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anjipoo&layout=compact&theme=dracula" height="150" alt="languages graph"  />
 </div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anjipoo/anjipoo/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anjipoo/anjipoo/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/anjipoo/anjipoo/output/github-contribution-grid-snake.svg">
+</picture>
