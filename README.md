@@ -1,6 +1,7 @@
 # 💫 About Me:
 hi, i'm Anjana, i'm hyperobservant and i love maths & astronomy 🌌
-![](https://komarev.com/ghpvc/?username=anjipoo)
+
+![](https://komarev.com/ghpvc/?username=anjipoo&color=blueviolet)
 
 
 ## 🌐 Socials:
